@@ -1,4 +1,4 @@
-[<img src="https://en.wikipedia.org/wiki/SAP_SE#/media/File:SAP_2011_logo.svg" align="center" width="850">](https://developers.sap.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" align="center" width="850">](https://developers.sap.com/)
 
 # awesome-sap
 
